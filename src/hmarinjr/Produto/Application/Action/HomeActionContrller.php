@@ -1,5 +1,5 @@
 <?php
-namespace Junior\Loja\Application\Action;
+namespace hmarinjr\Produto\Application\Action;
 
 use Lcobucci\ActionMapper\Action\AnnotatedController;
 
